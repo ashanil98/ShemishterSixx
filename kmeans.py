@@ -1,4 +1,4 @@
-weights= input("Enter weights"
+weights= input("Enter weights")
 a1=[]
 b1=[]
 c1=[]
